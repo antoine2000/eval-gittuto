@@ -1,5 +1,8 @@
-how_many_people = 4
-
-for i in range(1, how_many_people + 1):
-    print(f"{i:02d} Nom:")
-    print(f"{i:02d} Prénom:")
+01 Nom:
+01 Prénom:
+02 Nom:
+02 Prénom:
+03 Nom:
+03 Prénom:
+04 Nom:
+04 Prénom:
